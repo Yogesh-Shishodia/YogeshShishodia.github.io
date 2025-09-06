@@ -1,48 +1,46 @@
 body {
-  font-family: Arial, sans-serif;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
   background-color: #0d1117;
   color: #c9d1d9;
-  margin: 0;
-  padding: 0;
+  line-height: 1.6;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 750px;
   margin: 0 auto;
   padding: 2rem;
 }
 
-.profile {
+.header {
   text-align: center;
   margin-bottom: 2rem;
 }
 
-.profile-img {
+.avatar {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   border: 3px solid #58a6ff;
+  margin-bottom: 1rem;
 }
 
 h1 {
-  margin: 1rem 0 0.5rem;
+  margin: 0.2rem 0;
+  color: #fff;
 }
 
-.title {
-  font-size: 1.2rem;
+h2 {
   color: #58a6ff;
+  margin: 0.2rem 0;
+  font-weight: normal;
 }
 
-.subtitle {
-  font-size: 1rem;
-  color: #8b949e;
-}
-
-.section {
+section {
   margin-bottom: 2rem;
 }
 
-.section h2 {
+h3 {
   color: #58a6ff;
   border-bottom: 1px solid #30363d;
   padding-bottom: 0.3rem;
@@ -55,4 +53,8 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+ul {
+  padding-left: 1.2rem;
 }
