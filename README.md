@@ -1,84 +1,182 @@
-# Yogesh Shishodia
+# Yogesh Shishodia - Professional Portfolio
 
-👋 Hi, I’m **Yogesh Shishodia** — an experienced **AI/ML Engineer** from India with 4+ years of industry expertise in building scalable AI systems, autonomous agents, and GenAI-powered solutions.
+🚀 **Live Portfolio**: [https://yogeshshishodia.github.io](https://yogeshshishodia.github.io)
+
+A modern, responsive portfolio website showcasing my expertise as an **AI/ML Engineer** with 4+ years of industry experience in building scalable AI systems, autonomous agents, and GenAI-powered solutions.
+
+## 👨‍💻 About Me
+
+I'm a passionate **AI/ML Engineer** from India, currently working as an **AI Specialist at Sitelucent (Netherlands)**. I specialize in:
+
+- **🤖 LLM-based Agentic Systems** (LangChain, AWS Bedrock)
+- **🔍 Retrieval-Augmented Generation (RAG)**
+- **🌍 Neural Machine Translation (NMT)**
+- **🎯 Multimodal AI Learning**
+- **📊 Vector Search & Embeddings** (FAISS, Qdrant, Elasticsearch)
+- **⚡ Model Optimization** (LoRA/QLoRA)
+- **🛠️ MLOps & Deployment** (Docker, Kubernetes, CI/CD)
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+- Python, PyTorch, TensorFlow, Hugging Face Transformers
+- LangChain, FastAPI, Flask
+- JavaScript, HTML5, CSS3
+
+**AI/ML Technologies:**
+- GPT, LLaMA, BERT, Transformers
+- LSTM, GRU, CNNs
+- Scikit-learn, Pandas, NumPy
+
+**Cloud & DevOps:**
+- AWS (Bedrock, SageMaker, EC2)
+- Docker, Kubernetes
+- GitHub Actions, Jenkins
+- MLflow, Weights & Biases
+
+## 🎯 Featured Projects
+
+### 🤖 **Smart Legal Assistant**
+- **Tech Stack**: LangChain + AWS Bedrock + Vector DB + FastAPI
+- Built an intelligent AI agent for legal query resolution using custom RAG implementation
+- Multi-agent architecture with fallback strategies
+
+### 🌍 **Neural Machine Translation System**
+- **Tech Stack**: Transformers + PyTorch + Docker
+- Developed English-Indic NMT with beam decoding
+- Achieved state-of-the-art BLEU/COMET scores
+
+### 🎤 **Voice-to-Text Automation**
+- **Tech Stack**: Whisper + LangChain + OCR + Flask
+- Automated call transcription and summarization
+- Reduced manual processing time by 85%
+
+### 🖼️ **Multimodal Image Similarity System**
+- **Tech Stack**: EfficientNetB0 + SSIM + OCR
+- Flask API for intelligent image comparison
+- Fuzzy matching with computer vision techniques
+
+### 🧠 **GPT Model from Scratch**
+- **Tech Stack**: PyTorch + MLOps + Kubernetes
+- Custom domain-specific language model
+- End-to-end training and deployment pipeline
+
+## 📚 Publications
+
+**📄 [Chitrantaran: A Web Platform for Document Digitization](https://ieeexplore.ieee.org/document/10602999)**
+- *IEEE Xplore - 2024*
+- OCR + Machine Translation platform for Indian languages
+- Digital transformation of physical documents
+
+## 💼 Professional Experience
+
+### **AI Specialist** | Sitelucent, Netherlands *(2023 - Present)*
+- Leading AI initiatives and developing enterprise LLM solutions
+- Implementing MLOps practices for scalable AI systems
+- Focus on autonomous agents and multimodal AI applications
+
+### **Project Engineer (NLP)** | C-DAC, Pune *(2020 - 2023)*
+- Developed machine translation systems for Indian languages
+- Contributed to government AI research initiatives
+- Published research on multilingual NLP systems
+
+## 🏗️ Portfolio Features
+
+### **Modern Design**
+- ✨ Gradient hero section with smooth animations
+- 🎨 Glassmorphism design elements
+- 📱 Fully responsive across all devices
+- 🚀 Smooth scroll animations and hover effects
+
+### **Professional Structure**
+- 🧭 Fixed navigation with scroll effects
+- 📋 Organized project showcases
+- 📈 Timeline-based experience section
+- 📞 Easy-to-find contact information
+
+### **Technical Implementation**
+- 🎯 Semantic HTML5 structure
+- ⚡ Optimized CSS3 with modern features
+- 🔧 Vanilla JavaScript for interactions
+- 🌐 Font Awesome icons integration
+
+## 📁 Project Structure
+
+```
+yogeshshishodia.github.io/
+├── index.html          # Main portfolio page
+├── style.css           # Comprehensive styling
+├── README.md           # Project documentation
+├── assets/             # Images and media
+│   └── profile.jpg     # Profile image
+└── .github/
+    └── workflows/
+        └── static.yml  # GitHub Pages deployment
+```
+
+## 🚀 Quick Start
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Yogesh-Shishodia/yogeshshishodia.github.io.git
+   cd yogeshshishodia.github.io
+   ```
+
+2. **Add your profile image**
+   - Place your profile image as `assets/profile.jpg`
+   - Recommended size: 400x400px for optimal quality
+
+3. **Customize content**
+   - Update personal information in `index.html`
+   - Modify projects, experience, and skills sections
+   - Adjust contact links and social profiles
+
+4. **Deploy**
+   - Push changes to main branch
+   - GitHub Pages will automatically deploy your site
+
+## 📱 Mobile Responsiveness
+
+The portfolio is designed with a mobile-first approach:
+- 📱 **Mobile** (< 768px): Single column, touch-friendly
+- 💻 **Tablet** (768px - 1024px): Adapted grid layouts
+- 🖥️ **Desktop** (> 1024px): Full multi-column experience
+
+## 🎨 Customization Guide
+
+### **Colors & Branding**
+```css
+/* Primary gradient */
+background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+
+/* Update these colors in style.css for different themes */
+```
+
+### **Content Updates**
+- Update personal information in the hero section
+- Modify project cards with your own projects
+- Add/remove skills in the skills grid
+- Update experience timeline with your background
+
+## 📈 Performance Features
+
+- ⚡ Optimized loading with fade-in animations
+- 🎯 Efficient CSS with minimal redundancy
+- 📱 Touch-optimized for mobile devices
+- 🚀 Fast loading times with optimized assets
+
+## 🤝 Connect With Me
+
+- 📧 **Email**: [ranayogesh707@gmail.com](mailto:ranayogesh707@gmail.com)
+- 💼 **LinkedIn**: [yogesh-shishodia-2a7a931ab](https://linkedin.com/in/yogesh-shishodia-2a7a931ab)
+- 💻 **GitHub**: [Yogesh-Shishodia](https://github.com/Yogesh-Shishodia)
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 💼 About Me
+**⭐ If you found this portfolio template helpful, please consider giving it a star!**
 
-I specialize in:
-- **Retrieval-Augmented Generation (RAG)**
-- **LLM-based agentic chatbots** (LangChain, AWS Bedrock)
-- **Neural Machine Translation (NMT)**
-- **Multimodal learning**
-- **Vector search (FAISS, Elasticsearch)**
-- **Model optimization using LoRA / QLoRA**
-- **End-to-end AI deployments with MLOps (Docker, CI/CD)**
-
-Currently working as an **AI Specialist at Sitelucent (Netherlands)** and previously worked at **C-DAC Pune**.
-
-I help businesses automate their workflows using:
-- Intelligent document processing
-- Multilingual AI chatbots
-- Voice-to-text AI solutions
-- Autonomous agents that interact with tools, APIs, and internal data
-
----
-
-## 🛠️ Skills
-
-- **Languages & Frameworks:** Python, PyTorch, TensorFlow, Hugging Face, LangChain
-- **NLP & Deep Learning:** Transformers, GPT, LLaMA, BERT, LSTM, GRU
-- **ML & Data Handling:** Scikit-learn, Pandas, NumPy, Matplotlib
-- **Search & Graphs:** FAISS, HNSW, Neo4j, Sentence Transformers
-- **Cloud & Deployment:** AWS, Docker, Kubernetes, GitHub Actions, FastAPI
-- **DevOps:** CI/CD, Git, Jenkins, Prometheus, MLflow
-
----
-
-## 🧠 Highlight Projects
-
-### 🤖 Agentic Chatbot with AWS Bedrock
-Built and deployed a custom agentic chatbot using LangChain, AWS Bedrock, and multi-agent fallback strategy with FastAPI and Docker.
-
-### 🖼️ Multimodal Image Similarity System
-Developed a Flask API for image comparison using EfficientNetB0 + SSIM + OCR fuzzy matching; reduced manual QC time by 85%.
-
-### 🌍 Neural Machine Translation (NMT)
-Built Transformer-based English–Indian and Indian–European translation systems with linguistic collaboration and benchmark tuning (BLEU, COMET).
-
-### 📚 Multimodal RAG + Multi-Agent System
-Combined LLaMA 3.2 with LangChain for vision+text retrieval and reasoning with scalable vector DB integration and automated MLOps.
-
-### 📄 FIR Classification for Indian Languages
-Created multi-language FIR classifiers using LSTM, BPE tokenization, and normalization techniques to improve legal domain classification.
-
-### 🧠 GPT-based Language Model from Scratch
-Trained a domain-specific GPT model in PyTorch using MLOps and deployed with Docker and Kubernetes.
-
----
-
-## 📄 Publications
-
-🔗 [**IEEE Xplore - Chitrantaran**](https://ieeexplore.ieee.org/document/10602999)  
-> A web platform combining OCR and Machine Translation to digitize documents in multiple Indian languages.
-
----
-
-## 📬 Contact
-
-- 📧 Email: [ranayogesh707@gmail.com](mailto:ranayogesh707@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yogesh-shishodia-2a7a931ab](https://linkedin.com/in/yogesh-shishodia-2a7a931ab)  
-- 💻 GitHub: [Yogesh-Shishodia](https://github.com/Yogesh-Shishodia)  
-
----
-
-## 🌐 Portfolio Site
-
-🔗 [https://yogeshshishodia.github.io](https://yogeshshishodia.github.io)
-
-> This portfolio is built with clean HTML + CSS and showcases my background, projects, and AI capabilities.
-
----
-
-_Always learning. Always building._
+*Built with ❤️ and modern web technologies*
