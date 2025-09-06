@@ -36,30 +36,53 @@ I'm a passionate **AI/ML Engineer** from India, currently working as an **AI Spe
 
 ## 🎯 Featured Projects
 
-### 🤖 **Smart Legal Assistant**
-- **Tech Stack**: LangChain + AWS Bedrock + Vector DB + FastAPI
-- Built an intelligent AI agent for legal query resolution using custom RAG implementation
-- Multi-agent architecture with fallback strategies
+### **Current Role - Sitelucent (2025 - Present)**
 
-### 🌍 **Neural Machine Translation System**
-- **Tech Stack**: Transformers + PyTorch + Docker
-- Developed English-Indic NMT with beam decoding
-- Achieved state-of-the-art BLEU/COMET scores
+### 🤖 **AI Agentic Chatbot with AWS Bedrock & LangChain**
+- **Tech Stack**: AWS Bedrock + LangChain + FastAPI + Docker
+- Built custom agentic chatbot with foundation models and dynamic tool usage
+- Developed proprietary agent orchestration logic with contextual memory
+- Integrated Help Center FAQ Virtual Assistant using RAG over knowledge base
+- Implemented multi-agent communication and fallback strategies
 
-### 🎤 **Voice-to-Text Automation**
-- **Tech Stack**: Whisper + LangChain + OCR + Flask
-- Automated call transcription and summarization
-- Reduced manual processing time by 85%
+### 🖼️ **Advanced Image Similarity Detection System**
+- **Tech Stack**: EfficientNetB0 + SSIM + OCR + Flask
+- Achieved 97%+ accuracy combining CNN features, SSIM analysis, and OCR text comparison
+- Intelligent preprocessing with background removal and mirror image detection
+- Adaptive scoring algorithms with quality assessment and spatial analysis
+- Reduced manual image comparison time by 85%
 
-### 🖼️ **Multimodal Image Similarity System**
-- **Tech Stack**: EfficientNetB0 + SSIM + OCR
-- Flask API for intelligent image comparison
-- Fuzzy matching with computer vision techniques
+### **Previous Role - C-DAC (2021 - 2025)**
 
-### 🧠 **GPT Model from Scratch**
-- **Tech Stack**: PyTorch + MLOps + Kubernetes
-- Custom domain-specific language model
-- End-to-end training and deployment pipeline
+### 🧠 **Multimodal RAG with Multi-Agent AI**
+- **Tech Stack**: LLaMA 3.2 + LangChain + Hugging Face
+- Developed RAG system integrating text and vision-based understanding
+- Multi-vector database for efficient retrieval with multi-agent framework
+- MLOps pipelines with automated validation and drift detection
+
+### 🌍 **Neural Machine Translation for Indian & European Languages**
+- **Tech Stack**: Transformers + PyTorch + Transfer Learning
+- Developed Transformer models for English-Indian, Indian-English, Indic-Indic translations
+- Cross-lingual embeddings and attention mechanisms optimization
+- Rigorous benchmarking with BLEU, COMET, ChrF++ metrics
+
+### 🚀 **GPT Model from Scratch**
+- **Tech Stack**: PyTorch + MLOps + Kubernetes + Docker
+- Built custom domain-specific GPT model with sentence completion
+- MLOps practices with MLflow, Prometheus, and Grafana monitoring
+- Automated CI/CD pipelines with GitHub Actions
+
+### ⚖️ **FIR Classification System for Indian Languages**
+- **Tech Stack**: LSTM + GRU + BPE Tokenization
+- Multi-language FIR classification with advanced preprocessing
+- BPE tokenization, stemming, lemmatization, and normalization
+- Achieved accuracy beyond traditional classification methods
+
+### 👥 **Community Detection Model**
+- **Tech Stack**: Graph Clustering + FAISS + Image Processing
+- Group image analysis using modularity-based algorithms
+- FAISS-based indexing with database optimization
+- Advanced image processing for fast and accurate community detection
 
 ## 📚 Publications
 
@@ -70,13 +93,15 @@ I'm a passionate **AI/ML Engineer** from India, currently working as an **AI Spe
 
 ## 💼 Professional Experience
 
-### **AI Specialist** | Sitelucent, Netherlands *(April 2024 - Present)*
+### **Senior AI Specialist** | Sitelucent, Pune *(April 2025 - Present)*
 - Leading AI initiatives and developing enterprise LLM solutions
-- Implementing MLOps practices for scalable AI systems
-- Focus on autonomous agents and multimodal AI applications
+- Building autonomous agents powered by AWS Bedrock and foundation models
+- Implementing MLOps practices for scalable generative AI systems
+- Focus on multimodal AI applications and tool orchestration
 
-### **Project Engineer (NLP)** | C-DAC, Pune *(October 2021 - April 2024)*
+### **Project Engineer (R&D) (NLP)** | C-DAC, Pune *(October 2021 - April 2025)*
 - Developed machine translation systems for Indian languages
+- Built RAG systems and multi-agent AI frameworks
 - Contributed to government AI research initiatives
 - Published research on multilingual NLP systems
 
@@ -171,9 +196,7 @@ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 - 💼 **LinkedIn**: [yogesh-shishodia-2a7a931ab](https://linkedin.com/in/yogesh-shishodia-2a7a931ab)
 - 💻 **GitHub**: [Yogesh-Shishodia](https://github.com/Yogesh-Shishodia)
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
