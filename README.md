@@ -1,6 +1,6 @@
 # Yogesh Shishodia - Professional Portfolio
 
-🚀 **Live Portfolio**: [https://yogeshshishodia.github.io](https://yogeshshishodia.github.io)
+🚀 **Live Portfolio**: https://yogesh-shishodia.github.io/YogeshShishodia.github.io/
 
 A modern, responsive portfolio website showcasing my expertise as an **AI/ML Engineer** with 4+ years of industry experience in building scalable AI systems, autonomous agents, and GenAI-powered solutions.
 
