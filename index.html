@@ -127,7 +127,7 @@
       transform: rotate(-45deg) translate(7px, -6px);
     }
 
-    /* Hero Section - FIXED */
+    /* Hero Section */
     .hero {
       min-height: 100vh;
       display: flex;
@@ -135,8 +135,6 @@
       padding-top: 80px;
       position: relative;
       overflow: hidden;
-      /* Ensure gradient background is applied */
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     }
 
     .hero::before {
@@ -155,9 +153,15 @@
       grid-template-columns: 1fr 1fr;
       gap: 4rem;
       align-items: center;
-      color: white;
-      position: relative;
-      z-index: 1;
+      color: #222; /* Change from white to dark */
+      text-shadow: 0 1px 8px rgba(255,255,255,0.15); /* Optional: subtle shadow for contrast */
+    }
+
+    .hero-text h1,
+    .hero-text .subtitle,
+    .hero-text .description {
+      color: #222; /* Ensure headings and text are dark */
+      text-shadow: 0 1px 8px rgba(255,255,255,0.15); /* Optional */
     }
 
     .hero-text h1 {
@@ -166,8 +170,6 @@
       margin-bottom: 1rem;
       line-height: 1.1;
       animation: fadeInUp 1s ease 0.2s both;
-      color: white !important; /* Force white color */
-      text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Add text shadow for better visibility */
     }
 
     .hero-text .subtitle {
@@ -176,8 +178,6 @@
       opacity: 0.9;
       font-weight: 600;
       animation: fadeInUp 1s ease 0.4s both;
-      color: white !important;
-      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
     }
 
     .hero-text .description {
@@ -186,8 +186,6 @@
       opacity: 0.8;
       line-height: 1.7;
       animation: fadeInUp 1s ease 0.6s both;
-      color: white !important;
-      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
     }
 
     .hero-buttons {
@@ -258,13 +256,6 @@
       border: 4px solid rgba(255,255,255,0.3);
       margin-bottom: 1rem;
       object-fit: cover;
-      /* Fallback background for missing image */
-      background: linear-gradient(135deg, #667eea, #764ba2);
-    }
-
-    .profile-card p {
-      color: white !important;
-      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
     }
 
     /* Sections */
@@ -340,8 +331,6 @@
       z-index: 1;
       object-fit: cover;
       height: 400px;
-      /* Fallback background for missing image */
-      background: linear-gradient(135deg, #667eea, #764ba2);
     }
 
     .about-text {
@@ -563,7 +552,7 @@
     }
 
     .experience-highlights li::before {
-      content: '→';
+      content: 'â†’';
       position: absolute;
       left: 0;
       color: #667eea;
@@ -710,6 +699,7 @@
         font-size: 1rem;
       }
 
+      /* Profile card mobile optimization */
       .profile-card {
         max-width: 280px;
         margin: 0 auto;
@@ -799,6 +789,7 @@
         min-width: 100%;
       }
 
+      /* Profile card for very small screens */
       .profile-card {
         max-width: 240px;
         padding: 1rem;
@@ -849,6 +840,7 @@
         margin: 0 10px;
       }
 
+      /* Hero section mobile improvements */
       .hero {
         padding-top: 100px;
         min-height: auto;
@@ -941,7 +933,7 @@
         </div>
         <div class="hero-image">
           <div class="profile-card">
-            <div class="avatar"></div>
+            <img src="assets/profile.jpg" alt="Yogesh Shishodia" class="avatar" />
             <p style="margin-top: 1rem; opacity: 0.9; font-weight: 600;">Senior AI Specialist at Sitelucent</p>
             <p style="opacity: 0.7;">Netherlands</p>
           </div>
@@ -959,7 +951,7 @@
       </div>
       <div class="about-content">
         <div class="about-image">
-          <div class="about-img"></div>
+          <img src="assets/profile.jpg" alt="About Yogesh" class="about-img" />
         </div>
         <div>
           <p class="about-text">
@@ -1200,7 +1192,7 @@
   <footer>
     <div class="container">
       <p>&copy; 2024 Yogesh Shishodia. All rights reserved.</p>
-      <p>Built with ❤️ and modern web technologies</p>
+      <p>Built with â¤ï¸ and modern web technologies</p>
     </div>
   </footer>
 
