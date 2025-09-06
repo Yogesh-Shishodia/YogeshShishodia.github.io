@@ -70,12 +70,12 @@ I'm a passionate **AI/ML Engineer** from India, currently working as an **AI Spe
 
 ## 💼 Professional Experience
 
-### **AI Specialist** | Sitelucent, Netherlands *(2023 - Present)*
+### **AI Specialist** | Sitelucent, Netherlands *(April 2024 - Present)*
 - Leading AI initiatives and developing enterprise LLM solutions
 - Implementing MLOps practices for scalable AI systems
 - Focus on autonomous agents and multimodal AI applications
 
-### **Project Engineer (NLP)** | C-DAC, Pune *(2020 - 2023)*
+### **Project Engineer (NLP)** | C-DAC, Pune *(October 2021 - April 2024)*
 - Developed machine translation systems for Indian languages
 - Contributed to government AI research initiatives
 - Published research on multilingual NLP systems
